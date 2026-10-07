@@ -38,7 +38,7 @@ def keep_alive():
     print("Flask Keep-Alive started.")
 
 # --- Configuration ---
-TOKEN = os.environ.get("BOT_TOKEN", "8833080501:AAGDD-D5mXVItW-araU58Z-Ou26zi7oDbUQ").strip()
+TOKEN = os.environ.get("BOT_TOKEN", "8833080501:AAHqBB-iQoJ3_HgViiOv5FZf6nwzO74pZAw").strip()
 OWNER_ID = 8660772312
 ADMIN_ID = 8660772312
 YOUR_USERNAME = '@SHUVODIP_BRO'
